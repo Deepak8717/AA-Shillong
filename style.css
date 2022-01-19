@@ -44,17 +44,19 @@ h3 {
   display: flex;
   width: 100%;
   padding: 10px;
+  margin-top: 20px;
 }
 .icon {
   width: 30px;
   font-size: 20px;
 }
 .accordion {
-  width: 90%;
+  width: 98%;
   margin: 50px auto;
 }
 .content {
   background-color: #ece9f9;
-  padding: 7px 5px 2px 10px;
+  padding: 7px 10px 2px 10px;
   text-align: left;
+  border-radius: 10px;
 }
