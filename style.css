@@ -60,3 +60,17 @@ h3 {
   text-align: left;
   border-radius: 10px;
 }
+a {
+  width: 100px;
+  padding: 8px;
+  color: #fff;
+  background-color: #7c74fc;
+  display: block;
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 6px;
+  font-size: 18px;
+}
+.font {
+  font-size: 18px;
+}
